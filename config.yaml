@@ -1,0 +1,9 @@
+# from - путь к файлу, который необходимо скопировать
+# to - папка назначения
+# pause - период копирования в минутах (десятичный разделитель .)
+# необходимо указывать два слеша перед директорией
+# приложение будет копировать все файлы находящиеся в директории
+
+from: C:\\Users\\palestiner\\IntelliJIDEAProjects\\XLSX-copy-parser\\from
+to: C:\\Users\\palestiner\\IntelliJIDEAProjects\\XLSX-copy-parser\\to
+pause: 5
