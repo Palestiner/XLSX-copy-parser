@@ -4,6 +4,6 @@
 # необходимо указывать два слеша перед директорией
 # приложение будет копировать все файлы находящиеся в директории
 
-from: C:\\Users\\palestiner\\IntelliJIDEAProjects\\XLSX-copy-parser\\from
-to: C:\\Users\\palestiner\\IntelliJIDEAProjects\\XLSX-copy-parser\\to
+from: C:\\Users\\muv\\XLSX-copy-parser\\from\\
+to: C:\\Users\\muv\\XLSX-copy-parser\\to
 pause: 5
